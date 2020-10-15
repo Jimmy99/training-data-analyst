@@ -1,6 +1,7 @@
 # training-data-analyst 
 
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
+Walkthrough : https://levelup.gitconnected.com/how-to-parse-forms-using-google-cloud-document-ai-68ad47e1c0ed
 
 ## Contributing to this repo
 
@@ -29,7 +30,7 @@ https://cloud.google.com/training/courses/data-engineering
 #### Code
 1. [Leveraging unstructured data](courses/unstructured)
 2. [Serverless Data Analysis](courses/data_analysis)
-3. [Serverless Machine Learning](courses/machine_learning)
+3. [Serverless Machine Learning](courses/machine_learning)https://levelup.gitconnected.com/how-to-parse-forms-using-google-cloud-document-ai-68ad47e1c0ed
 4. [Resilient streaming systems](courses/streaming)
 
 
